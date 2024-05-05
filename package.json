@@ -1,0 +1,15 @@
+{
+  "name": "rollup-plugin-stringify-code",
+  "version": "0.0.0",
+  "description": "A [rollup.js](https://rollupjs.org/) plugin to turn Javascript code into string and assign it to variable.",
+  "main": "src/rollup-plugin-stringify-code.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "type": "module",
+  "author": "Avishkar Autar",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^6.1.2"
+  }
+}
